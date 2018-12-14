@@ -1,5 +1,5 @@
 #Example of KNN without packages 
-
+-------------------------------------EXAMPLE OF PACKAGE -------------------------
 #relevant packages for the task
 import csv
 import random
