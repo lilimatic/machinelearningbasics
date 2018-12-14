@@ -1,4 +1,4 @@
-# machinelearningbasics
+# machine learning basics
 Information about the codes:
 1. All codes are composed in R
 2. All codes either include synthetically created data or data that is within a package. 
