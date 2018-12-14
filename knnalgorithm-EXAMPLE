@@ -1,4 +1,7 @@
 #Example of KNN without packages 
+#quoted code from
+#https://machinelearningmastery.com/tutorial-to-implement-k-nearest-neighbors-in-python-from-scratch/
+
 -------------------------------------EXAMPLE OF PACKAGE -------------------------
 #relevant packages for the task
 import csv
